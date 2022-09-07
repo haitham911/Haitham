@@ -2,15 +2,13 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a Backend developer from Egypt 🇮🇳
 
 **About me**
 
 - 💼 Software Engineer (Golang,PHP)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing Golang, and building cloud microservice on AWS and GCP
 
 - 💬 Ask me about anything [here](https://github.com/haitham911/Haitham/issues)
 
