@@ -38,6 +38,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 
 <a href="https://www.linkedin.com/in/haitham-rageh-52b52a10b">
-  <img align="right" alt="Haitham Rageh | Linkedin" width="21px" src="https://raw.githubusercontent.com/haitham911/Haitham/master/assets/LinkedIn_icon.svg" />
+  <img align="right" alt="Haitham Rageh | Linkedin" width="21px" src="https://github.com/haitham911/Haitham/blob/main/assets/LinkedIn_icon.svg.png" />
 </a>
 
