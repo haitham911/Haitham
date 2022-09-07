@@ -28,7 +28,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 <a href="https://github.com/haitham911/fullstack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=haitham911/fullstack&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=fullstack&theme=buefy" />
 </a>
 <a href="https://github.com/haitham911/cd0354-monolith-to-microservices-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=cd0354-monolith-to-microservices-project&theme=buefy" />
