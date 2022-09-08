@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/haitham911"><img width="80%" alt="Hello, I'm Haitham. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/haitham911"><img width="80%" alt="Hello, I'm Haitham. I do open source!" src="./assets/goimage.jfif" /></a></p>
 
 <br />
 
