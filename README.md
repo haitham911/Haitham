@@ -24,6 +24,19 @@ I'm a Backend developer from Egypt 🇮🇳
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham911&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitham911&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+### Experience 
+● Development of back-end components to integrate applications with web services.
+● Review code to validate structures, assess security and verify browser, device and operating system compatibility.
+● Design, development, and implementation of software applications for websites based on analysed requirements and understanding of industry technical standards.
+● Plan and engineer RESTful web services to manipulate dynamic datasets.
+● Expand development efforts to include related platforms and protocols such as REST and database technologies like [MySQL, PostgreSQL].
+● Employ prefabricated design patterns to shorten development duration by applying existing frameworks.
+● Build databases and table structures following [MySQL, PostgreSQL] architecture methodology for web applications.
+● Design and deploy scalable, extendable, and maintainable full stack applications using modern cloud architecture GCP ,AWS
+● GitHub Actions as CI/CD method
+● I am involved in project requirements open source project (ICAP), for the first project I developing a set of microservices, to be part of a Kubernetes cluster
+● I am involved in the coding of the project as well as implementing unit and integration tests. Quite familiar with Gin framework and Gorilla toolkit.
+● I am involved in project requirements using GCP , AWS, EC2, S3 and lambda functions. Microservices and API-based communications. Kubernetes with a program to control jaeger,minio,rabbitmq ,cloud storage
 
 #### Top Repositories
 
