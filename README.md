@@ -1,6 +1,6 @@
 
 **Hello, I'm Haitham. I build microservices!**
-<p align="center"><a href="https://github.com/haitham911"><img width="80%" alt="Hello, I'm Haitham. I do open source!" src="./assets/goimage.jfif" width="150px"/></a></p>
+<p align="center"><a href="https://github.com/haitham911"><img width="80%" alt="Hello, I'm Haitham. I do open source!" src="./assets/goimage.jfif"  height="50px" width="200px"/></a></p>
 
 <br />
 
