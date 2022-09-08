@@ -1,4 +1,4 @@
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haitham911&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)</p>
+
 <p align="center"><a href="https://github.com/haitham911">Hello, I'm Haitham. I build microservices!</a></p>
 
 <p align="center"><a href="https://github.com/haitham911"><img width="80%" alt="Hello, I'm Haitham. I do open source!" src="./assets/goimage.jfif" /></a></p>
@@ -34,7 +34,7 @@ I'm a Backend developer from Egypt 🇮🇳
 <a href="https://github.com/haitham911/cd0354-monolith-to-microservices-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=cd0354-monolith-to-microservices-project&theme=buefy" />
 </a>
-
+<a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=haitham911&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)</a>
 <br />
 <br />
 
