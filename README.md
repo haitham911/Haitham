@@ -7,7 +7,7 @@ Hello, I'm Haitham. I build microservices!
 
 <br />
 
-I'm a Backend developer from Egypt 🇮🇳
+I'm a Backend developer from Egypt
 
 **About me**
 
