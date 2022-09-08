@@ -14,13 +14,17 @@ I'm a Backend developer from Egypt 🇮🇳
 - ❤️ I love writing Golang, and building cloud microservice on AWS and GCP
 
 - 💬 Ask me about anything [here](https://github.com/haitham911/haitham911/issues)
-
+<p float="left">
 <code><img height="20" alt="golang" src="https://github.com/haitham911/haitham911/blob/main/assets/go.png"></code>
+<code><img height="20" alt="docker" src="https://github.com/haitham911/haitham911/blob/main/assets/docker.png"></code>    
+<code><img height="20" alt="kue" src="https://github.com/haitham911/haitham911/blob/main/assets/kube.png"></code> 
 <code><img height="20" alt="php" src="https://github.com/haitham911/haitham911/blob/main/assets/php.png"></code>
 <code><img height="20" alt="gcp" src="https://github.com/haitham911/haitham911/blob/main/assets/gcp.png"></code>
 <code><img height="20" alt="aws" src="https://github.com/haitham911/haitham911/blob/main/assets/aws.png"></code>
 <code><img height="20" alt="rabbitmq" src="https://github.com/haitham911/haitham911/blob/main/assets/rabbit.png"></code>    
 <code><img height="20" alt="postgres" src="https://github.com/haitham911/haitham911/blob/main/assets/pg.png"></code>    
+</p>
+   
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham911&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitham911&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
