@@ -3,7 +3,7 @@
 <p align="center">
 Hello, I'm Haitham. I build microservices!
 </p>
-<p align="center"><a href="https://github.com/haitham911"><img width="80%" alt="Hello, I'm Haitham. I do open source!" src="./assets/goimage.jfif"  height="100px" width="300px"/></a></p>
+<p align="center"><a href="https://github.com/haitham911"><img style="float: right;" width="100%" alt="Hello, I'm Haitham. I do open source!" src="./assets/goimage.jfif"  height="100px" /></a></p>
 
 <br />
 
