@@ -34,8 +34,8 @@ I'm a Backend developer from Egypt 🇮🇳
 <p>● Build databases and table structures following [MySQL, PostgreSQL] architecture methodology for web applications.</p>
 <p>● Design and deploy scalable, extendable, and maintainable full stack applications using modern cloud architecture GCP ,AWS</p>
 <p>● GitHub Actions as CI/CD method</p>
-<p>● I am involved in project requirements open source project (ICAP), for the first project I developing a set of microservices, to be part of a Kubernetes cluster</p>
-<p>● I am involved in the coding of the project as well as implementing unit and integration tests. Quite familiar with Gin framework and Gorilla toolkit.</p>
+<p>● I am involved in project requirements Socket programming, for the first project I developing a set of microservices, to be part of a Kubernetes cluster</p>
+<p>● I am involved in the coding of the project as well as implementing unit and integration tests.WEB Gin framework and Gorilla toolkit.</p>
 <p>● I am involved in project requirements using GCP , AWS, EC2, S3 and lambda functions. Microservices and API-based communications. Kubernetes with a program to control jaeger,minio,rabbitmq ,cloud storage</p>
 
 #### Top Repositories
