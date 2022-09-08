@@ -1,6 +1,8 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-**Hello, I'm Haitham. I build microservices!**
+<p align="center">
+Hello, I'm Haitham. I build microservices!
+</p>
 <p align="center"><a href="https://github.com/haitham911"><img width="80%" alt="Hello, I'm Haitham. I do open source!" src="./assets/goimage.jfif"  height="100px" width="300px"/></a></p>
 
 <br />
