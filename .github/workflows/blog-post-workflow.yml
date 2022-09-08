@@ -12,4 +12,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: haitham911/haitham911w@main
+        uses: haitham911/haitham911@main
