@@ -31,7 +31,7 @@ I'm a Backend developer from Egypt
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haitham911&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitham911&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 Haitham Rageh | GitHub Profile
-👋 Hello! I'm Haitham Rageh, a seasoned software engineer passionate about creating elegant solutions and pushing the boundaries of technology. Welcome to my GitHub profile!
+👋 Hello! I'm Haitham Rageh, software engineer passionate about creating elegant solutions and pushing the boundaries of technology. Welcome to my GitHub profile!
 
 About Me
 I bring 7+ years of experience to the world of software development, specializing in Golang, microservices architecture, and cloud-native applications. My journey in the tech world has led me to contribute meaningfully to a variety of projects and collaborate with diverse teams.
