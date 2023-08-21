@@ -53,6 +53,9 @@ I'm fascinated by the potential of Kubernetes and Docker in shaping the future o
 Feel free to connect with me on LinkedIn or explore my repositories here on GitHub. If you're as excited about technology and innovation as I am, let's collaborate and create something incredible together.
 
 LinkedIn: Haitham Rageh
+<a href="https://www.linkedin.com/in/haitham-rageh-52b52a10b">
+  <img align="right" alt="Haitham Rageh | Linkedin" width="21px" src="https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png" />
+</a>
 ### Experience 
 <p>● Development of back-end components to integrate applications with web services.</p>
 <p>● Review code to validate structures, assess security and verify browser, device and operating system compatibility.</p>
