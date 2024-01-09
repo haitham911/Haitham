@@ -69,7 +69,6 @@ Feel free to connect with me on LinkedIn: Haitham Rageh <a href="https://www.lin
   <img align="left" alt="Haitham Rageh | Linkedin" width="21px" src="https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png" />
 </a> or explore my repositories here on GitHub. If you're as excited about technology and innovation as I am, let's collaborate and create something incredible together.
 
-LinkedIn: Haitham Rageh [![LinkedIn](https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png)](https://www.linkedin.com/in/haitham-rageh-52b52a10b)
 
 ## Experience
 
