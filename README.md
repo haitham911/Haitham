@@ -85,9 +85,9 @@ LinkedIn: Haitham Rageh <a href="https://www.linkedin.com/in/haitham-rageh-52b52
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=event-management-&theme=buefy" />
 </a>
 <a href="https://github.com/haitham911/CRM-Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=CRM-Backend-&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=CRM-Backend&theme=buefy" />
 </a>
-<a href="[https://github.com/haitham911/movieeapp](https://github.com/haitham911/movieeapp)">
+<a href="https://github.com/haitham911/movieeapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=movieeapp&theme=buefy" />
 </a>
 
