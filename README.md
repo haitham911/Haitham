@@ -41,16 +41,16 @@ I'm a Backend developer from Egypt.
 
 I bring 7+ years of experience to the world of software development, specializing in Golang, microservices architecture, and cloud-native applications. My journey in the tech world has led me to contribute meaningfully to a variety of projects and collaborate with diverse teams.
 ## Technical Skills
-# Languages: Golang, C++, PHP, JavaScript (React)
-# Cloud Platforms: AWS, GCP, Digital Ocean
-# CI/CD: Continuous Integration & Deployment
-# Containerization: Docker, Kubernetes
-# Communication Protocols: gRPC, REST, WebSockets
-# Kubernetes: Controller & Operator Development
-# Testing & Optimization: Unit Testing, Code Optimization
-# Databases: MySQL, PostgreSQL
-# Messaging: RabbitMQ, PUB/SUB
-# Tools: Jaeger, Git, GitHub Actions
+ - Languages: Golang, C++, PHP, JavaScript (React)
+ - Cloud Platforms: AWS, GCP, Digital Ocean
+  CI/CD: Continuous Integration & Deployment
+  Containerization: Docker, Kubernetes
+  Communication Protocols: gRPC, REST, WebSockets
+ Kubernetes: Controller & Operator Development
+ Testing & Optimization: Unit Testing, Code Optimization
+ Databases: MySQL, PostgreSQL
+ Messaging: RabbitMQ, PUB/SUB
+ Tools: Jaeger, Git, GitHub Actions
 ## Current Focus
 
 Right now, I'm deeply immersed in building clean and scalable Golang services that harness the power of microservices. I thrive on crafting efficient RESTful and gRPC-based APIs while leveraging cloud platforms like AWS and Google Cloud Platform (GCP). My recent projects reflect my commitment to staying at the forefront of modern software development practices.
