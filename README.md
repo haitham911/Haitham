@@ -104,11 +104,14 @@ Feel free to connect with me on LinkedIn: Haitham Rageh <a href="https://www.lin
 [![Event Management](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=event-management-&theme=buefy)](https://github.com/haitham911/event-management-)
 [![CRM Backend](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=CRM-Backend&theme=buefy)](https://github.com/haitham911/CRM-Backend)
 [![MovieeApp](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=movieeapp&theme=buefy)](https://github.com/haitham911/movieeapp)
+[![image-filter](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=movieeapp&theme=buefy)](https://github.com/haitham911/image-filter)
+
+
 
 <br />
 <br />
 
 - ![GitHub followers](https://img.shields.io/github/followers/haitham911)
-- LinkedIn: Haitham Rageh <a href="https://www.linkedin.com/in/haitham-rageh-52b52a10b">
+- <a href="https://www.linkedin.com/in/haitham-rageh-52b52a10b">
   <img align="left" alt="Haitham Rageh | Linkedin" width="21px" src="https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png" />
 </a>
