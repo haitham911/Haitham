@@ -65,7 +65,9 @@ I'm fascinated by the potential of Kubernetes and Docker in shaping the future o
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/haitham-rageh-52b52a10b) or explore my repositories here on GitHub. If you're as excited about technology and innovation as I am, let's collaborate and create something incredible together.
+Feel free to connect with me on LinkedIn: Haitham Rageh <a href="https://www.linkedin.com/in/haitham-rageh-52b52a10b">
+  <img align="left" alt="Haitham Rageh | Linkedin" width="21px" src="https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png" />
+</a> or explore my repositories here on GitHub. If you're as excited about technology and innovation as I am, let's collaborate and create something incredible together.
 
 LinkedIn: Haitham Rageh [![LinkedIn](https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png)](https://www.linkedin.com/in/haitham-rageh-52b52a10b)
 
@@ -98,4 +100,6 @@ LinkedIn: Haitham Rageh [![LinkedIn](https://github.com/haitham911/haitham911.gi
 <br />
 
 ![GitHub followers](https://img.shields.io/github/followers/haitham911)
-[![LinkedIn](https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png)](https://www.linkedin.com/in/haitham-rageh-52b52a10b)
+LinkedIn: Haitham Rageh <a href="https://www.linkedin.com/in/haitham-rageh-52b52a10b">
+  <img align="left" alt="Haitham Rageh | Linkedin" width="21px" src="https://github.com/haitham911/haitham911.github.io/blob/main/assets/LinkedIn_icon.svg.png" />
+</a>
