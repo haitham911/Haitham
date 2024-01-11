@@ -41,7 +41,7 @@ I'm a Backend developer from Egypt.
 
 I bring 7+ years of experience to the world of software development, specializing in Golang, microservices architecture, and cloud-native applications. My journey in the tech world has led me to contribute meaningfully to a variety of projects and collaborate with diverse teams.
 ## Technical Skills
- - Languages: Golang, C++, PHP, JavaScript (React)
+ - Languages: Golang, C++, PHP, JavaScript ,ReactJS / NextJS / Bootstrap
  - Cloud Platforms: AWS, GCP, Digital Ocean
  - CI/CD: Continuous Integration & Deployment
  - Containerization: Docker, Kubernetes
