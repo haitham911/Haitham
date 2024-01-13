@@ -106,7 +106,6 @@ Feel free to connect with me on LinkedIn: Haitham Rageh <a href="https://www.lin
 [![MovieeApp](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=movieeapp&theme=buefy)](https://github.com/haitham911/movieeapp)
 [![image-filter](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=image-filter&theme=buefy)](https://github.com/haitham911/image-filter)
 [![learn-sys](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=learn-sys&theme=buefy)](https://github.com/haitham911/learn-sys)
-
 <br />
 <br />
 
