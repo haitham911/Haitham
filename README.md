@@ -76,7 +76,10 @@ I'm a Backend developer from Egypt.
 [![MovieeApp](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=movieeapp&theme=buefy)](https://github.com/haitham911/movieeapp)
 [![image-filter](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=image-filter&theme=buefy)](https://github.com/haitham911/image-filter)
 [![appointmen-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=haitham911&repo=appointmen-chatbot&theme=buefy)](https://github.com/haitham911/appointmen-chatbot)
-
+## Contributions to Open Source Projects
+- [**Cloudposse Atmos**](https://github.com/cloudposse/atmos) - Contributor.
+![Haitham's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=haitham911&theme=react-dark)
+- [**Egirna ICAP Server**](https://github.com/egirna/icap-server) - Contributor.
 
 ## Get in Touch
 
